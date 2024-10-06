@@ -1,0 +1,12 @@
+{
+    "name": "multiplayer",
+    "description": "A multiplayer mod.",
+    "author": "ConnorM",
+    "version": "0.0.1",
+    "homepage": "",
+    "preload": false,
+    "main": "server.js",
+    "module": false,
+    "dependencies": [],
+    "priority": 1
+}

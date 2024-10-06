@@ -1,0 +1,27 @@
+{
+  "name": "multiplayer",
+  "version": "1.0.0",
+  "description": "A multiplayer mod to Moonstone Island",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Connor-Miller/moonstone-multiplayer.git"
+  },
+  "keywords": [
+    "moonstone"
+  ],
+  "author": "Connor Miller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Connor-Miller/moonstone-multiplayer/issues"
+  },
+  "homepage": "https://github.com/Connor-Miller/moonstone-multiplayer#readme",
+  "dependencies": {
+    "express": "^4.21.0",
+    "socket.io": "^4.8.0"
+  }
+}
